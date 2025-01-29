@@ -1,0 +1,2 @@
+@balancer-labs/v3-interfaces/=lib/@balancer-labs/balancer-v3/pkg/interfaces
+@balancer-labs/v3-solidity-utils/=lib/@balancer-labs/balancer-v3/pkg/solidity-utils
